@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+}
+h1{
+    background-color:blue;
+}
+button{
+    background-color: blueviolet;
+    border-radius: 35%;
+}
+button:hover{
+    background-color: white;
+}
+@media (min-width:768px){
+    
+}
